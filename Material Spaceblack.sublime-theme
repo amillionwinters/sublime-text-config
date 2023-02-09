@@ -1,0 +1,13 @@
+{
+	"variables":
+	{
+	},
+	"rules":
+	[
+		{
+      		"class": "title_bar",
+      		"fg": "#BB90B0",
+      		"bg": "rgb(26, 29, 35)"
+    	},
+	]
+}
