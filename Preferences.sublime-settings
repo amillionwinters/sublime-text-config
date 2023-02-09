@@ -1,0 +1,15 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Material Spaceblack.sublime-theme",
+	"font_face": "Fira Code Light Nerd Font Complete",
+	// "font_face": "Fira Code Light",
+	"font_size": 8,
+	// "highlight_line": true,
+	"caret_style": "phase",
+	"caret_extra_top": 2,
+	"caret_extra_bottom": 2,
+	"color_scheme": "Packages/Materialize/schemes/Material Spaceblack.tmTheme",
+}
